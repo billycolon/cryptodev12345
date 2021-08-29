@@ -8,6 +8,6 @@ I am excited to help you realize your dream as well by building out your next ki
 
 - 🔭 I’m Fullstack Blockchain engineer
 - 🌱 I’m young, passionate, fast learner ...
-- 👯 I’m looking to collaborate on cool guys who have great idea.
+- 👯 I’m looking to collaborate with cool guys who have great idea.
 - 🕝 I'm flexible with timezone.
 - 💬 Ask me about web, mobile blockchain development
